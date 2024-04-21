@@ -211,6 +211,17 @@ a{	height: 34px;
 	margin-left: 66px;
 }
 
+.P-0{
+	margin-bottom: 20px;
+	color: #4E6FAE;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 66px;
+}
+
 .div-2{
 	vertical-align: top;
 	display: inline-block;
@@ -228,7 +239,7 @@ a{	height: 34px;
 .P-1{
 	margin-bottom: 20px;
 	color: #4E6FAE;
-	font-family: "BPG Square", sans-serif;
+	font-family: "BPG Nostalgia", sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 700;
