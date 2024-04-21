@@ -102,10 +102,7 @@
 	width: 1327px;
 	margin: 0 auto;
 }
-.container{
-	width: 1291px;
-	margin: 0 auto;
-}
+
 nav{
 	display: inline-block;
 	vertical-align: middle;
@@ -156,11 +153,11 @@ a{	height: 34px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
-	margin-bottom: px;
 	margin-top: 44px;
 	margin-left: 52px;
 	padding:12px ;
 }
+
 
 .H3{
 	width: 119px;
@@ -193,6 +190,7 @@ a{	height: 34px;
 	margin-left: 52px;
 	display: inline-block;
 	vertical-align: top;
+
 }
 
 .div-1{
